@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", "sans-serif";
+}
+
+nav ul {
+    list-style: none;
+    background-color: #4a4a4f;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    font-size: 2em;
+    line-height: 40px;
+    height: 40px;  /*individual height of list items*/
+    display: inline-block; /*to make nav horizontal, width and height propeties can be applied*/
+    margin-left: 2.5%;
+}
+
+nav a {
+    text-decoration: none; /*removes underline*/
+    color: #ffffff;
+    display: block; /*to make links horizontal*/
+}
+
+nav a:hover {
+    background-color: #ffffff; /*color when mouse hovers*/
+    color: #4a4a4f;
+    
+}
+
+.card {
+    float: left; /*helps arrange in grid*/
+    width: 20%; /*of screen width*/
+    margin-left: 10%;
+}
+
+.card a {
+    text-align: center;
+}
+
+img {
+    width: 100%; /*relative width to the container it is in i.e .card, width: 20%  */
+}
+
+h1 {
+    text-align: center;
+}
