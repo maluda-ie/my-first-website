@@ -1,4 +1,17 @@
-# My Very First Webpage
+#### Project Title
+Hello World
 
-Welcome!
+#### Descriptipion
+This site was created at the beginning of Code Institute's Full Stack Diploma. 
+It was an opportunity to practice the basic HTML5 and CSS3 that we had just
+been introduced to. The project also served as an introduction to Git and 
+GitHub. 
+
+#### Technologies Used
+- Cloud9
+- Git
+- GitHub
+
+
+
 
