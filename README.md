@@ -1,7 +1,7 @@
 #### Project Title
 Hello World
 
-#### Descriptipion
+#### Description
 This site was created at the beginning of Code Institute's Full Stack Diploma. 
 It was an opportunity to practice the basic HTML5 and CSS3 that we had just
 been introduced to. The project also served as an introduction to Git and 
